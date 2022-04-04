@@ -10,7 +10,7 @@ function App() {
         <MainContent>
           <TodoContent>
             <Title>Dashboard</Title>
-            <Greeting>Good morning, David</Greeting>
+            <Greeting>Good morning, Rokas</Greeting>
             <TodoList />
           </TodoContent>
         </MainContent>
